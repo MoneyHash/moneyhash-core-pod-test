@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://moneyhash.io'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'MoneyHash' => 'tech@moneyhash.io' }
-  s.source           = { :path => '.' }
+  s.source           = { :git => 'https://github.com/MoneyHash/moneyhash-core-pod-test.git', :tag => s.version.to_s }
   s.ios.deployment_target = '14.0'
   s.vendored_frameworks = 'MoneyHashCore.xcframework'
 end
