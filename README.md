@@ -1,0 +1,1 @@
+# moneyhash-core-pod-test
