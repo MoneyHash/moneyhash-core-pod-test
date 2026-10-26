@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MoneyHashCoreTest'
-  s.version          = '0.0.1-dev.3'
+  s.version          = '0.0.1-dev.4'
   s.summary          = 'Core framework shared by MoneyHash SDKs.'
   s.description      = 'Shared core xcframework used by MoneyHashPayment and MoneyHashLeanTest.'
   s.homepage         = 'https://moneyhash.io'
